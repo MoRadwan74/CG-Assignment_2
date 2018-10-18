@@ -19,7 +19,7 @@ the animation work.
 
 - Given a triangle with two vertices and the coordinate center,subdivideCircle() recursively subdivides the triangle depth times and draws 2<sup>depth</sup> triangles.
 
-## You can watch a live stream on [youtube's link]
-[youtube's link]: https://youtu.be/wDlrdrpDYX0
+## You can watch a live stream on [youtube]
+[youtube]: https://youtu.be/wDlrdrpDYX0
 
 ![alt text](https://imgur.com/QYfK0Oy.png "Circle of Triangles")
